@@ -1,0 +1,22 @@
+
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.testBtn{
+  background-color: blueviolet;
+  color: azure;
+  padding: 10px 20px;
+  font-size: 22px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.testBtn:hover{
+  background-color: rgb(109, 51, 163);
+}
