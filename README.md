@@ -15,14 +15,9 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](src/assets/Screenshot1.png)
 
-![App Screenshot](src/assets/Screenshot2.png)
 
-<div style="border: 2px solid blue;">
-  <img src="src/assets/Screenshot1.png" width="600" />
-</div>
-
+<img src="src/assets/Screenshot1.png" width="600" />
 <hr>
 <img src="src/assets/Screenshot2.png" width="600" style="border:2px solid gray"/>
 
