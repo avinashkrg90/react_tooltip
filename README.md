@@ -19,6 +19,10 @@ To deploy this project run
 
 ![App Screenshot](src/assets/Screenshot2.png)
 
+<img src="src/assets/Screenshot1.png" width="400" style="border:2px solid gray"/>
+<hr>
+<img src="src/assets/Screenshot2.png" width="400" style="border:2px solid gray"/>
+
 ## Usage/Examples
 
 ```javascript
