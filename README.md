@@ -19,7 +19,7 @@ To deploy this project run
 
 ![App Screenshot](src/assets/Screenshot2.png)
 
-<div style="border:5px solid red">
+<div style="border: 2px solid blue;">
   <img src="src/assets/Screenshot1.png" width="600" />
 </div>
 
